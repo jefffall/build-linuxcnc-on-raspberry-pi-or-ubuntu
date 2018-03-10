@@ -11,7 +11,8 @@ apt-get -y install bwidget
 apt-get -y install libtk-img
 apt-get -y install tclx
 apt-get -y install python-gtk2
-apt-get -y install libreadline-dev
+#apt-get -y install libreadline-dev
+apt-get -y install libreadline-gplv2-dev
 apt-get -y install python-tk
 apt-get -y install libboost-all-dev
 apt-get -y install screen
